@@ -1,0 +1,33 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/cover.jpg" filesize="96204" filedate="2018-08-11 10:00:04" width="461px" height="720px"/>
+<image path="images/frontispiece.png" filesize="61153" filedate="2018-08-11 10:00:05" width="370px" height="604px"/>
+<image path="images/initial-i.png" filesize="3406" filedate="2018-08-11 10:00:06" width="118px" height="118px"/>
+<image path="images/o092.png" filesize="1580" filedate="2018-08-11 10:00:06" width="155px" height="114px"/>
+<image path="images/o171.png" filesize="1979" filedate="2018-08-11 10:00:06" width="107px" height="108px"/>
+<image path="images/o186.png" filesize="1943" filedate="2018-08-11 10:00:06" width="148px" height="98px"/>
+<image path="images/o187.png" filesize="227" filedate="2018-08-11 10:00:06" width="21px" height="22px"/>
+<image path="images/p007.png" filesize="19929" filedate="2018-08-11 10:00:07" width="337px" height="254px"/>
+<image path="images/p008.png" filesize="14209" filedate="2018-08-11 10:00:08" width="354px" height="375px"/>
+<image path="images/p019.png" filesize="27387" filedate="2018-08-11 10:00:09" width="350px" height="380px"/>
+<image path="images/p022.png" filesize="11793" filedate="2018-08-11 10:00:10" width="333px" height="357px"/>
+<image path="images/p027.png" filesize="28170" filedate="2018-08-11 10:00:11" width="347px" height="354px"/>
+<image path="images/p031.png" filesize="52135" filedate="2018-08-11 10:00:12" width="355px" height="519px"/>
+<image path="images/p032.png" filesize="23571" filedate="2018-08-11 10:00:13" width="363px" height="276px"/>
+<image path="images/p034.png" filesize="61467" filedate="2018-08-11 10:00:14" width="381px" height="616px"/>
+<image path="images/p041.png" filesize="18186" filedate="2018-08-11 10:00:15" width="350px" height="231px"/>
+<image path="images/p052.png" filesize="54489" filedate="2018-08-11 10:00:17" width="380px" height="620px"/>
+<image path="images/p066.png" filesize="17077" filedate="2018-08-11 10:00:18" width="345px" height="233px"/>
+<image path="images/p067.png" filesize="58196" filedate="2018-08-11 10:00:20" width="379px" height="619px"/>
+<image path="images/p074.png" filesize="19218" filedate="2018-08-11 10:00:21" width="350px" height="262px"/>
+<image path="images/p086.png" filesize="54675" filedate="2018-08-11 10:00:23" width="382px" height="614px"/>
+<image path="images/p112.png" filesize="25409" filedate="2018-08-11 10:00:23" width="350px" height="280px"/>
+<image path="images/p116.png" filesize="36787" filedate="2018-08-11 10:00:24" width="358px" height="389px"/>
+<image path="images/p131.png" filesize="4303" filedate="2018-08-11 10:00:25" width="111px" height="256px"/>
+<image path="images/p137.png" filesize="38294" filedate="2018-08-11 10:00:26" width="375px" height="496px"/>
+<image path="images/p139.png" filesize="7147" filedate="2018-08-11 10:00:27" width="145px" height="262px"/>
+<image path="images/p152.png" filesize="13435" filedate="2018-08-11 10:00:27" width="332px" height="198px"/>
+<image path="images/p153.png" filesize="36754" filedate="2018-08-11 10:00:29" width="351px" height="393px"/>
+<image path="images/p167.png" filesize="17683" filedate="2018-08-11 10:00:29" width="341px" height="236px"/>
+<image path="images/qr45696.png" filesize="268" filedate="2021-06-02 20:22:26" width="148px" height="148px"/>
+<image path="images/titlepage.png" filesize="38587" filedate="2018-08-11 10:00:32" width="437px" height="720px"/>
+</images>
